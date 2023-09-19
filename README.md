@@ -28,7 +28,7 @@ This project aims to contribute to the success of our supermarket by utilizing d
 
 To explore the Supermarket Sales Analytics Dashboard and access valuable insights for our supermarket, follow these steps:
 
-1. Click on the [Dashboard Link](https://github.com/Shubham11100213/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) to access the dashboard.
+1. Click on the [Dashboard Link](https://github.com/Shubham11100213/SuperStore-Sales-Forecasting/blob/main/Super%20Store%20Sales.pbix)) to access the dashboard.
 
 2. Use the intuitive interface to interact with the data and gain valuable insights.
 
